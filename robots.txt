@@ -1,4 +1,4 @@
 # robot.txt for https://masuo1032.github.io/google-code-in/
 
 User-agent:*
-Disallow:
+Disallow:/dummy/dummy.html
